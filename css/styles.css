@@ -10970,3 +10970,9 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+::marker {
+  content: '▷ ';
+
+  font-size: 1.05em;
+}
